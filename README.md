@@ -18,3 +18,4 @@ This Power BI dashboard project aims to:
 - 📈 Interactive filters, slicers, and drill-down capabilities
 
   
+Screenshot-Snapshot of blinkit dashboard.png
